@@ -32,18 +32,30 @@ Depois que você clonar o codigo do gitLab para a  dentro da pasta htdocs
   5-Abra o postman e faça os seguintes teste das rotas 
     5.1- Teste de rotas de empresa
        requisição tipo GET -> http://127.0.0.1:8000/empresa
+       
        requisição tipo GET -> http://127.0.0.1:8000/empresa/{id}
+       
        "Essa requisição  a baixo lista a empresa com os dados do socio passado por parametro";
        requisição tipo GET -> http://127.0.0.1:8000/empresa/socios/{id} 
+       
        requisição tipo POST -> http://127.0.0.1:8000/empresa/inserir
+       
        requisição tipo DELETE -> http://127.0.0.1:8000/empresa/delete/{id}
+       
        requisição tipo UPDATE -> http://127.0.0.1:8000/empresa/atualizar/{id}
+       
     5.2- Teste de rotas de Socios 
+    
        requisição tipo GET -> http://127.0.0.1:8000/socio/
+       
        requisição tipo GET -> http://127.0.0.1:8000/socio/{id}
+       
        requisição tipo POST -> http://127.0.0.1:8000/socio/inserir
+       
        requisição tipo DELETE -> http://127.0.0.1:8000/socio/delete/{id}
+       
        requisição tipo UPDATE -> http://127.0.0.1:8000/socio/atualizar/{id}
+       
        
  # Front-End feito em Angular
    Depois que você clonar o codigo do gitLab 
