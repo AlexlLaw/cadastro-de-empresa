@@ -31,6 +31,7 @@ Depois que você clonar o codigo do gitLab para a  dentro da pasta htdocs
   
   5-Abra o postman e faça os seguintes teste das rotas 
     5.1- Teste de rotas de empresa
+    
        requisição tipo GET -> http://127.0.0.1:8000/empresa
        
        requisição tipo GET -> http://127.0.0.1:8000/empresa/{id}
