@@ -1,4 +1,4 @@
-Infelismente por falta de tempo não foi possivel desemvolver o FRONT-end, porem o back-end feito em Symfony 4 está concluido.
+API feito em Symfony 4
 
 Tive um certo problema com o gitLab, pois então fiz no github e importei para o gitlab, espero que não seja prejudicado por conta disso.
 
