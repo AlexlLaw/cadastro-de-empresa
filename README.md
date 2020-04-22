@@ -1,7 +1,5 @@
 API feito em Symfony 4
 
-Tive um certo problema com o gitLab, pois então fiz no github e importei para o gitlab, espero que não seja prejudicado por conta disso.
-
 # O que foi Feito
 
 	1. CRUD para as Empresas
@@ -9,7 +7,7 @@ Tive um certo problema com o gitLab, pois então fiz no github e importei para o
 	2. CRUD para sócios
   
 
-# back-end feito em Symfony
+# back-end feito em Symfony 4
 
 Depois que você clonar o codigo do gitLab para a  dentro da pasta htdocs e start o xamp "APACHE"
 
